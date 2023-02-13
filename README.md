@@ -11,9 +11,10 @@
 ## repository content
 
 - notes：自己的笔记，提供markdown和pdf版本。
-- assignment：4次作业的内容，包含答案。
+- assignments：4次作业的内容，包含答案。
 - lab：lab课的课件。
-- lecture：理论课的课件。
+- lectures：理论课的课件。
+- project：report, sourc code and description of final report.
 - reference_books：可供参考的书籍。
 
 ## tips
@@ -23,7 +24,7 @@
 - 期中开卷测试之前强烈建议好好复习一下！！！虽然是开卷，但是题目很多（22fall），需要快快写，如果在中间看自己带材料的话是大概是写不完的。
 - 理论考试复习参考assignment的内容，课上签到quiz以及lecture里的例题就差不多了。
 - 虽然说考前要复习，但是感觉靠突击是不太能一下子把分数弄上去的。所以关键还是平时要跟上进度。
-- lecture讲授的内容和《数字设计与Verilog实现》（在reference_books中可以找到）里面是高度一致的，很适合复习的时候看。建议购买一本纸质，不仅可以参考，也可以在期中开卷小测试的时候直接作为cheating paper用。
+- lecture讲授的内容和《数字设计与Verilog实现》（）这本书里面是高度一致的，很适合复习的时候看。建议购买一本纸质，不仅可以参考，也可以在期中开卷小测试的时候直接作为cheating paper用。
 - final的重点是理论课的后半部分，与实验课关系不大，有大量需要手画电路的部分。
 
 ### lab

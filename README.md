@@ -6,7 +6,6 @@
 
 - semester: 2022 FALL
 - project score: 140/100
-- Final score: 100/100
 
 ## repository content
 

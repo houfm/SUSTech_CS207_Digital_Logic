@@ -13,7 +13,7 @@
 - assignments：4次作业的内容，包含答案。
 - lab：lab课的课件。
 - lectures：理论课的课件。
-- project：提交的视频，报告，源代码以及题目描述.
+- project：报告，源代码以及题目描述.
 - reference_books：可供参考的书籍。
 
 ## tips
